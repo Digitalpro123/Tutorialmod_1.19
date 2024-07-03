@@ -8,5 +8,8 @@
   "block.tutorialmod.netherrack_zircon_ore": "Netherrack Zircon Ore",
   "block.tutorialmod.endstone_zircon_ore": "Endstone Zircon Ore",
 
-  "itemGroup.tutorialtab": "Zircon Tutorial Tab"
+  "itemGroup.tutorialtab": "Zircon Tutorial Tab",
+
+  "key.category.tutorialmod.tutorial": "Tutorial Mod",
+  "key.tutorialmod.drink_water": "Drink Water"
 }
